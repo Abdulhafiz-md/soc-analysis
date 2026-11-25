@@ -83,7 +83,7 @@ post-exploitation tool transfer.
 - T1053.005 Scheduled Task
 - T1105 Ingress Tool Transfer
 - T1036 Masquerading
-![Event count for the selected date range in Splunk](screenshots/01-event-counpng)
+
 
 ## Lessons Learned
 Rare-value searches are a fast way to spot impostor accounts, and
